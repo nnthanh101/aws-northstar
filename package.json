@@ -129,7 +129,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.45",
     "@material-ui/pickers": "^3.2.10",
-    "@types/react-table": "7.0.10",
+    "@types/react-table": "7.0.29",
     "@types/recharts": "^1.8.10",
     "@types/uuid": "^7.0.0",
     "clsx": "^1.1.1",
